@@ -30,6 +30,7 @@ ehthumbs.db
 
 # Screenshots / temporary files (optional)
 *.png
+!apple-touch-icon.png
 *.jpg
 *.jpeg
 *.gif

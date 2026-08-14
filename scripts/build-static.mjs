@@ -1,7 +1,13 @@
 import { copyFile, mkdir, rm } from 'node:fs/promises';
 
 const outputDir = new URL('../dist/', import.meta.url);
-const files = ['index.html', 'app.js', 'styles.css'];
+const files = [
+  'index.html',
+  'app.js',
+  'styles.css',
+  'favicon.svg',
+  'apple-touch-icon.png',
+];
 
 await rm(outputDir, { recursive: true, force: true });
 await mkdir(outputDir, { recursive: true });

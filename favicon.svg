@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Alle Talen Thuis">
+  <defs>
+    <clipPath id="tile">
+      <rect width="64" height="64" rx="10" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <path fill="#3778c2" d="M0 0h25v30H0z" />
+    <path fill="#f6c85f" d="M25 0h21l-3 20-18-2z" />
+    <path fill="#2f9d74" d="M46 0h18v36l-21-5z" />
+    <path fill="#f06d5e" d="M0 30l22 3-4 31H0z" />
+    <path fill="#8f6ccf" d="M20 18l26 2-3 25-27-4z" />
+    <path fill="#ec8a42" d="M43 31l21-5v38H40z" />
+    <path fill="#55b8a9" d="M18 41l25 4-3 19H18z" />
+    <path fill="#f2a7b8" d="M0 24l20-6 5 19-25 7z" />
+    <path fill="#5c8fd6" d="M36 41l17 3-3 20H34z" />
+  </g>
+  <rect x=".75" y=".75" width="62.5" height="62.5" rx="9.25" fill="none" stroke="#263238" stroke-opacity=".14" stroke-width="1.5" />
+  <text x="32" y="41" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" text-anchor="middle" style="paint-order:stroke;stroke:#263238;stroke-width:3px;stroke-opacity:.18;stroke-linejoin:round">Aa</text>
+</svg>
